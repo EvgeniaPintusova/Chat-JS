@@ -1,1 +1,1 @@
-# Chat-JS
+# JS-Camping
